@@ -1,6 +1,7 @@
 # MSDS_596_EDA_Visualization_Ethics
 
 Leeza Sergeeeva
+
 September - October 2021
 
 This is combination of my school work on EDA, Visualization and Ethics class (MSDS 596 from USFCA) that I've taken during Fall 2021 semester.
